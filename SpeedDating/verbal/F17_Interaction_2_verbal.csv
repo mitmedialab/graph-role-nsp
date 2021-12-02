@@ -1,0 +1,61 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+10.06,12.91,P37,10,laughing
+14.07,17.02,P37,2,acknowledgement 
+26.06,28.01,P37,3,repair
+29.93,31.87,P38,2,acknowledgement 
+47.91,49.88,P37,2,acknowledgement 
+48.03,50.08,P38,2,acknowledgement 
+50.91,52.91,P38,13,compliment
+67.85,80.88,P38,3,repair
+86.87,88.94,P37,9,whispering
+93.87,95.01,P38,2,acknowledgement 
+109.96,117.01,P37,3,repair
+117.05,119.09,P38,9,whispering
+121.01,122.94,P38,3,repair
+134.96,142.88,P38,3,repair
+136.06,139.08,P37,9,whispering
+156.1,159.09,P37,2,acknowledgement 
+173.85,176.11,P38,9,whispering
+177.93,189.01,P38,3,repair
+194.06,197.95,P38,19,judgemental 
+235.96,237.99,P38,19,judgemental 
+237.87,244.08,P37,3,repair
+297.02,299.85,P38,19,judgemental 
+309.88,314.92,P38,19,judgemental 
+315.1,317.95,P38,21,cut off agent
+324.13,329.13,P37,3,repair
+332.08,338.12,P37,19,judgemental 
+363.84,364.97,P38,14,positive tone 
+392.02,394.06,P38,12,"""thank you"""
+9.13,17.09,P37,3,Answer Question
+9.13,17.09,P37,4,Follow-Up Question
+9.13,17.09,P37,5,Exclamation
+26.92,29.99,P37,3,Answer Question
+26.92,29.99,P37,1,Short Response
+29.93,32.03,P38,3,Answer Question
+46.05,47.96,P38,6,Relevancy
+47.06,49.85,P37,3,Answer Question
+48.01,55.01,P38,6,Relevancy
+48.01,55.01,P38,3,Answer Question
+78.96,81.9,P38,29,Whisper
+78.96,81.9,P37,30,Laugh
+86.04,88.88,P37,29,Whisper
+92.1,94.94,P38,1,Short Response
+104.91,105.92,P38,29,Whisper
+127.95,132.99,P38,29,Whisper
+132.07,135.05,P37,29,Whisper
+136.07,139.93,P37,29,Whisper
+154.99,160.0,P37,5,Exclamation
+174.06,176.88,P38,29,Whisper
+193.9,197.97,P38,4,Follow-Up Question
+229.13,238.11,P38,4,Follow-Up Question
+229.13,238.11,P38,6,Relevancy
+298.98,301.91,P38,4,Follow-Up Question
+299.92,305.99,P37,33,Defend
+299.92,305.99,P37,30,Laugh
+312.07,318.87,P38,6,Relevancy
+312.07,318.87,P38,37,Interrupt 
+331.13,336.87,P37,4,Follow-Up Question
+331.13,336.87,P37,30,Laugh
+353.09,356.88,P38,4,Follow-Up Question
+371.09,376.08,P38,30,Laugh

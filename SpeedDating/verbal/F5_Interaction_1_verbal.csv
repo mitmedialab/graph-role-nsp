@@ -1,0 +1,40 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+300.01,302.89,P15,3,repair
+309.13,311.08,P15,10,laughing
+340.94,345.93,P15,3,repair
+374.15,377.14,P15,2,acknowledgement 
+441.05,444.98,P16,11,exclamation
+461.92,464.07,P15,9,whispering
+485.07,498.03,P15,10,laughing
+510.14,518.9,P16,12,"""thank you"""
+537.86,540.87,P15,9,whispering
+548.97,550.95,P15,9,whispering
+550.96,556.99,P15,21,cut off agent
+556.15,560.93,P16,10,laughing
+684.15,688.99,P16,10,laughing
+689.05,692.94,P16,10,laughing
+746.11,749.13,P16,11,exclamation
+866.15,870.02,P15,19,judgemental 
+913.94,954.02,P16,9,whispering
+980.86,983.12,P16,11,exclamation
+1028.98,1032.04,P15,2,acknowledgement 
+309.13,311.08,P15,30,Laugh
+367.86,376.05,P16,2,Mhm
+374.15,377.14,P15,1,Short Response
+483.07,492.04,P16,30,Laugh
+485.07,498.03,P15,30,Laugh
+507.13,514.92,P16,31,Thank You
+537.86,540.87,P15,29,Whisper
+550.96,556.99,P15,37,Interrupt 
+552.11,558.03,P16,30,Laugh
+684.15,688.99,P16,30,Laugh
+745.04,748.05,P16,5,Exclamation
+746.11,749.13,P15,5,Exclamation
+823.11,826.91,P16,30,Laugh
+864.86,869.01,P15,29,Whisper
+866.15,870.02,P15,30,Laugh
+910.89,914.15,P15,29,Whisper
+913.94,954.02,P16,29,Whisper
+978.01,982.01,P15,2,Mhm
+1028.12,1034.07,P15,3,Answer Question
+1028.12,1034.07,P15,1,Short Response

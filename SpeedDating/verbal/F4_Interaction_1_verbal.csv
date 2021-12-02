@@ -1,0 +1,155 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+252.76,256.8,P9,10,laughing
+260.97,273.03,P9,10,laughing
+262.75,264.01,P11,9,whispering
+274.95,280.77,P11,3,repair
+276.76,280.86,P9,3,repair
+283.74,287.96,P11,3,repair
+284.9,286.77,P12,9,whispering
+287.82,289.03,P11,21,cut off agent
+298.02,300.92,P11,10,laughing
+298.88,301.98,P10,10,laughing
+298.99,302.91,P9,10,laughing
+301.98,306.75,P9,21,cut off agent
+303.01,306.99,P11,9,whispering
+314.81,320.87,P9,13,compliment
+347.89,350.74,P11,9,whispering
+357.79,362.0,P14,9,whispering
+362.75,366.75,P9,9,whispering
+364.03,368.76,P11,3,repair
+367.75,372.95,P11,3,repair
+368.83,370.93,P11,3,repair
+370.81,374.81,P9,3,repair
+374.74,376.93,P13,3,repair
+378.02,381.8,P14,20,insult
+379.89,382.85,P9,10,laughing
+381.0,383.03,P11,9,whispering
+386.98,388.97,P12,9,whispering
+416.92,420.03,P11,21,cut off agent
+421.87,423.78,P10,9,whispering
+447.03,452.99,P11,21,cut off agent
+452.83,453.86,P11,10,laughing
+459.03,461.02,P11,21,cut off agent
+460.91,462.84,P9,20,insult
+462.91,475.87,P14,3,repair
+481.91,486.97,P13,3,repair
+499.82,503.86,P11,9,whispering
+501.02,504.95,P10,9,whispering
+504.01,505.82,P13,12,"""thank you"""
+505.97,510.8,P9,2,acknowledgement 
+510.92,514.81,P13,21,cut off agent
+522.03,528.75,P14,9,whispering
+540.92,543.75,P12,9,whispering
+545.83,548.88,P13,21,cut off agent
+553.81,557.85,P9,20,insult
+556.03,561.78,P12,9,whispering
+558.9,570.81,P10,3,repair
+572.83,575.77,P10,2,acknowledgement 
+596.76,598.01,P10,9,whispering
+618.74,629.88,P12,9,whispering
+619.86,622.74,P9,9,whispering
+644.87,646.87,P11,10,laughing
+650.96,653.79,P11,9,whispering
+670.02,673.78,P9,2,acknowledgement 
+672.03,674.75,P11,9,whispering
+677.98,680.9,P10,9,whispering
+680.97,682.93,P11,13,compliment
+713.01,718.02,P11,9,whispering
+726.91,731.84,P13,9,whispering
+772.9,775.81,P11,21,cut off agent
+777.88,780.02,P10,9,whispering
+780.83,782.88,P11,3,repair
+785.78,788.96,P11,3,repair
+789.01,793.77,P12,9,whispering
+811.74,818.98,P9,10,laughing
+834.82,835.8,P11,2,acknowledgement 
+849.98,853.01,P10,9,whispering
+850.98,852.95,P11,10,laughing
+857.79,859.79,P11,21,cut off agent
+865.95,867.74,P11,2,acknowledgement 
+871.0,874.76,P11,21,cut off agent
+872.93,878.94,P10,9,whispering
+876.9,879.82,P11,21,cut off agent
+889.85,892.86,P11,19,judgemental 
+890.03,894.83,P9,9,whispering
+894.85,896.84,P11,9,whispering
+903.75,907.99,P11,3,repair
+928.99,935.01,P9,3,repair
+960.97,973.96,P13,13,compliment
+965.93,974.91,P9,13,compliment
+972.94,978.75,P12,10,laughing
+976.77,980.76,P14,9,whispering
+992.92,1001.92,P14,9,whispering
+993.92,1000.9,P10,9,whispering
+999.8,1019.89,P13,9,whispering
+1009.74,1011.88,P11,21,cut off agent
+1024.91,1026.02,P11,20,insult
+252.76,256.8,P9,30,Laugh
+253.98,258.83,P13,29,Whisper
+271.97,276.02,P9,30,Laugh
+287.82,289.03,P11,37,Interrupt 
+297.94,300.94,P9,30,Laugh
+298.02,300.92,P11,30,Laugh
+301.98,306.75,P9,37,Interrupt 
+311.75,320.93,P9,32,Compliment
+326.93,332.95,P14,6,Relevancy
+357.79,362.0,P14,6,Relevancy
+362.75,366.75,P9,6,Relevancy
+378.02,381.8,P14,6,Relevancy
+383.87,387.02,P14,4,Follow-Up Question
+394.9,402.8,P9,1,Short Response
+447.03,452.99,P11,37,Interrupt 
+456.99,461.79,P11,37,Interrupt 
+458.95,462.0,P9,36,Angry Verbal
+504.01,505.82,P13,31,Thank You
+505.97,510.8,P9,3,Answer Question
+510.92,514.81,P13,37,Interrupt 
+528.92,547.99,P13,37,Interrupt 
+545.83,548.88,P13,37,Interrupt 
+553.81,557.85,P9,37,Interrupt 
+555.83,558.81,P11,33,Defend
+556.03,561.78,P12,33,Defend
+557.01,559.74,P14,33,Defend
+618.92,623.77,P9,6,Relevancy
+636.85,639.92,P9,5,Exclamation
+650.96,653.79,P11,29,Whisper
+670.02,673.78,P9,3,Answer Question
+672.03,674.75,P11,3,Answer Question
+677.98,680.9,P10,6,Relevancy
+688.87,695.78,P9,6,Relevancy
+713.01,718.02,P11,29,Whisper
+726.91,731.84,P13,29,Whisper
+769.83,811.85,P13,29,Whisper
+772.9,775.81,P11,37,Interrupt 
+777.88,780.02,P10,29,Whisper
+780.83,782.88,P11,37,Interrupt 
+785.78,788.96,P11,37,Interrupt 
+786.83,790.86,P14,37,Interrupt 
+811.74,818.98,P9,30,Laugh
+834.82,835.8,P11,35,Judgemental Verbal
+844.74,852.03,P10,29,Whisper
+845.91,856.98,P13,29,Whisper
+853.88,856.78,P11,6,Relevancy
+857.79,859.79,P11,37,Interrupt 
+865.95,867.74,P11,1,Short Response
+868.91,878.94,P11,37,Interrupt 
+872.0,884.94,P10,29,Whisper
+887.82,902.96,P12,29,Whisper
+889.85,892.86,P11,6,Relevancy
+889.85,892.86,P11,4,Follow-Up Question
+890.03,894.83,P9,6,Relevancy
+894.85,896.84,P11,29,Whisper
+960.96,964.88,P10,29,Whisper
+960.97,973.96,P13,29,Whisper
+965.93,974.91,P9,32,Compliment
+972.94,978.75,P12,29,Whisper
+976.77,990.96,P10,29,Whisper
+976.77,980.76,P14,29,Whisper
+992.92,1001.92,P14,29,Whisper
+993.92,1000.9,P10,29,Whisper
+999.8,1019.89,P13,29,Whisper
+1005.99,1013.76,P11,29,Whisper
+1022.92,1035.99,P11,36,Angry Verbal
+1034.78,1037.85,P13,29,Whisper
+1041.79,1044.79,P10,29,Whisper
+1043.02,1045.94,P11,6,Relevancy

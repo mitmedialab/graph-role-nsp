@@ -1,0 +1,167 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+10321,10442,P17,5,eye contact 
+10378,10889,P18,5,eye contact 
+10563,10954,P17,8,smiling at agent
+10771,11014,P18,8,smiling at agent
+11255,11435,P18,5,eye contact 
+12633,12810,P17,5,eye contact 
+12723,13080,P18,5,eye contact 
+12748,13080,P19,5,eye contact 
+12875,13054,P17,5,eye contact 
+12994,13079,P18,18,body language
+13590,13714,P17,5,eye contact 
+13712,14099,P19,5,eye contact 
+13738,14101,P18,5,eye contact 
+13918,14066,P17,5,eye contact 
+14006,14097,P19,6,nodding
+14374,14463,P17,4,moving towards 
+14430,14758,P19,5,eye contact 
+14495,14764,P18,5,eye contact 
+14579,14761,P17,5,eye contact 
+14640,14760,P19,5,eye contact 
+14757,14818,P19,6,nodding
+15599,15687,P17,5,eye contact 
+15687,16138,P18,5,eye contact 
+15690,16230,P19,5,eye contact 
+15869,15958,P17,4,moving towards 
+16348,16442,P17,5,eye contact 
+16437,16745,P19,8,smiling at agent
+16498,16744,P17,5,eye contact 
+16652,16769,P19,6,nodding
+16683,16832,P18,5,eye contact 
+16804,16888,P19,9,whispering
+16979,17279,P18,5,eye contact 
+16984,17248,P17,5,eye contact 
+17014,17279,P19,5,eye contact 
+17487,17823,P18,5,eye contact 
+17637,17823,P19,5,eye contact 
+17761,17853,P18,18,body language
+18120,18901,P18,5,eye contact 
+18184,18898,P17,5,eye contact 
+19173,19474,P17,5,eye contact 
+19621,19923,P18,5,eye contact 
+19677,19862,P17,5,eye contact 
+19833,20104,P19,8,smiling at agent
+20096,20161,P18,4,moving towards 
+20102,20189,P17,8,smiling at agent
+20187,20398,P19,4,moving towards 
+20218,20341,P19,5,eye contact 
+20367,20672,P18,5,eye contact 
+20403,21212,P17,5,eye contact 
+20758,21214,P19,5,eye contact 
+20881,21693,P18,5,eye contact 
+21093,21238,P19,6,nodding
+21484,21573,P19,4,moving towards 
+21784,22258,P19,8,smiling at agent
+21843,22289,P17,8,smiling at agent
+22619,22803,P17,5,eye contact 
+22917,23156,P19,5,eye contact 
+23038,23306,P18,5,eye contact 
+23038,23157,P17,8,smiling at agent
+23339,23435,P17,5,eye contact 
+23756,24148,P18,5,eye contact 
+23876,24120,P17,5,eye contact 
+23912,24178,P19,5,eye contact 
+23913,24035,P18,15,moving away 
+24064,24179,P18,8,smiling at agent
+24512,24725,P18,5,eye contact 
+24927,25048,P19,15,moving away 
+24989,25227,P18,5,eye contact 
+25046,25204,P17,5,eye contact 
+25113,25199,P17,8,smiling at agent
+25439,25531,P17,5,eye contact 
+25533,25835,P19,5,eye contact 
+25556,25979,P18,5,eye contact 
+26010,26127,P17,5,eye contact 
+26158,26674,P18,8,smiling at agent
+26315,26547,P17,5,eye contact 
+26374,26460,P19,4,moving towards 
+26608,26697,P19,8,smiling at agent
+27095,27239,P19,4,moving towards 
+27209,27567,P17,8,smiling at agent
+27717,27958,P18,5,eye contact 
+27933,29313,P17,5,eye contact 
+28110,28496,P19,5,eye contact 
+28110,29068,P18,5,eye contact 
+29457,29609,P17,8,smiling at agent
+30064,30182,P17,4,moving towards 
+30094,30300,P18,5,eye contact 
+30424,30600,P17,4,moving towards 
+30509,30746,P18,5,eye contact 
+30537,30749,P19,5,eye contact 
+30987,31143,P18,5,eye contact 
+31019,31170,P19,4,moving towards 
+31143,31501,P17,5,eye contact 
+31198,31293,P18,15,moving away 
+31227,31323,P19,18,body language
+31498,31829,P19,15,moving away 
+31621,31829,P17,5,eye contact 
+10503,11371,P19,21,Switch Eye Contact
+10654,11371,P18,21,Switch Eye Contact
+10654,11371,P18,25,Judgemental Eyebrow
+10654,11371,P18,24,Smile
+10744,11371,P17,24,Smile
+10744,11371,P17,21,Switch Eye Contact
+11337,11402,P19,23,Glance at Others
+11337,11402,P19,13,Nod 
+13890,14099,P17,21,Switch Eye Contact
+13890,14099,P17,23,Glance at Others
+13893,14068,P18,21,Switch Eye Contact
+13917,14099,P18,25,Judgemental Eyebrow
+14493,14791,P19,24,Smile
+14493,14791,P19,23,Glance at Others
+14493,14791,P19,13,Nod 
+14552,14817,P17,23,Glance at Others
+14583,14792,P18,25,Judgemental Eyebrow
+16443,16769,P17,24,Smile
+16443,16769,P17,23,Glance at Others
+16500,16769,P19,23,Glance at Others
+16500,16769,P19,24,Smile
+16500,16769,P19,13,Nod 
+16533,16774,P18,26,Inquisitive Eyebrow
+17044,17253,P19,21,Switch Eye Contact
+17097,17249,P17,28,Mouth Open
+17674,17910,P18,25,Judgemental Eyebrow
+17727,17879,P19,25,Judgemental Eyebrow
+18305,18540,P19,27,Downward Frown
+18305,18540,P19,22,Look Away
+18359,18598,P17,21,Switch Eye Contact
+18365,19052,P18,26,Inquisitive Eyebrow
+19923,20133,P19,24,Smile
+19947,20103,P17,24,Smile
+21121,21244,P17,23,Glance at Others
+21178,21387,P19,13,Nod 
+21207,21387,P18,21,Switch Eye Contact
+21837,22319,P19,24,Smile
+21905,22143,P17,21,Switch Eye Contact
+21905,22143,P17,23,Glance at Others
+21905,22234,P18,25,Judgemental Eyebrow
+21905,22143,P17,24,Smile
+21905,22234,P18,21,Switch Eye Contact
+22917,23132,P17,23,Glance at Others
+22917,23132,P17,24,Smile
+22979,23190,P19,24,Smile
+23576,23703,P17,23,Glance at Others
+23576,23703,P17,24,Smile
+23577,23732,P19,8,Move Away
+23974,24155,P19,24,Smile
+23998,24148,P18,24,Smile
+24538,24748,P18,25,Judgemental Eyebrow
+24597,31829,P17,23,Glance at Others
+24993,25175,P18,24,Smile
+25081,25203,P17,23,Glance at Others
+25081,25203,P17,24,Smile
+25083,25263,P19,24,Smile
+26194,26490,P17,21,Switch Eye Contact
+26254,26641,P19,24,Smile
+26309,26462,P18,24,Smile
+27300,27514,P18,22,Look Away
+27327,27686,P19,21,Switch Eye Contact
+28889,29097,P18,25,Judgemental Eyebrow
+30515,30725,P18,21,Switch Eye Contact
+30635,30719,P17,21,Switch Eye Contact
+31142,31680,P19,21,Switch Eye Contact
+31142,31680,P19,25,Judgemental Eyebrow
+31142,31680,P19,8,Move Away
+31199,31406,P18,25,Judgemental Eyebrow
+31200,31470,P17,24,Smile

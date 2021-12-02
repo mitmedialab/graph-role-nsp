@@ -1,0 +1,51 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+360.08,364.11,P17,10,laughing
+434.07,435.9,P17,10,laughing
+490.12,492.96,P17,10,laughing
+490.16,493.07,P18,19,judgemental 
+560.16,562.95,P19,9,whispering
+572.92,577.07,P18,2,acknowledgement 
+638.08,1060.99,P18,2,acknowledgement 
+659.18,661.95,P18,3,repair
+668.04,672.01,P19,10,laughing
+737.15,743.97,P19,10,laughing
+802.15,805.12,P17,10,laughing
+812.06,822.93,P17,14,positive tone 
+821.98,828.91,P17,10,laughing
+884.06,886.05,P17,2,acknowledgement 
+911.14,915.98,P19,10,laughing
+912.02,918.98,P18,10,laughing
+929.89,933.98,P19,3,repair
+1000.02,1005.0,P17,21,cut off agent
+1002.06,1005.18,P19,21,cut off agent
+1049.99,1053.98,P18,11,exclamation
+350.1,379.06,P19,30,Laugh
+350.1,379.06,P19,29,Whisper
+358.14,379.04,P17,30,Laugh
+376.18,381.08,P17,1,Short Response
+485.08,493.91,P17,30,Laugh
+486.12,493.07,P18,35,Judgemental Verbal
+570.06,576.04,P18,1,Short Response
+637.9,642.95,P18,3,Answer Question
+637.9,642.95,P18,1,Short Response
+665.92,672.01,P18,1,Short Response
+727.91,743.99,P19,30,Laugh
+801.11,805.14,P17,30,Laugh
+819.92,1060.99,P17,30,Laugh
+824.89,826.18,P19,29,Whisper
+836.12,842.13,P19,30,Laugh
+884.13,891.04,P17,3,Answer Question
+884.13,891.04,P17,1,Short Response
+910.03,917.14,P18,30,Laugh
+910.93,922.89,P19,30,Laugh
+912.01,919.04,P17,30,Laugh
+926.15,933.95,P19,3,Answer Question
+926.15,933.95,P19,4,Follow-Up Question
+976.08,981.16,P19,29,Whisper
+976.11,980.05,P18,29,Whisper
+983.9,987.16,P17,29,Whisper
+996.95,1002.99,P19,31,Thank You
+996.95,1002.99,P19,37,Interrupt 
+1001.05,1005.89,P17,37,Interrupt 
+1018.98,1026.96,P19,29,Whisper
+1039.97,1056.02,P18,35,Judgemental Verbal

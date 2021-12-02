@@ -1,0 +1,43 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+102.87,114.11,P16,10,laughing
+296.08,311.05,P15,9,whispering
+307.97,312.93,P15,21,cut off agent
+313.94,316.05,P15,2,acknowledgement 
+439.03,445.0,P16,9,whispering
+528.91,535.1,P16,2,acknowledgement 
+529.02,532.01,P15,2,acknowledgement 
+568.04,571.11,P15,2,acknowledgement 
+594.1,597.99,P15,3,repair
+606.98,612.94,P15,10,laughing
+629.96,634.99,P16,9,whispering
+650.91,655.91,P16,12,"""thank you"""
+694.9,698.12,P15,2,acknowledgement 
+55.9,76.16,P15,30,Laugh
+102.87,114.11,P15,3,Answer Question
+107.94,112.12,P16,29,Whisper
+107.94,112.12,P16,30,Laugh
+208.13,213.98,P16,29,Whisper
+208.13,213.98,P16,2,Mhm
+213.08,220.01,P16,29,Whisper
+244.07,249.88,P15,29,Whisper
+296.08,311.05,P15,37,Interrupt 
+296.08,311.05,P15,29,Whisper
+313.94,316.05,P15,31,Thank You
+529.02,532.01,P15,3,Answer Question
+529.02,532.01,P15,1,Short Response
+568.04,571.11,P15,1,Short Response
+599.09,615.9,P16,30,Laugh
+606.98,612.94,P15,30,Laugh
+611.08,614.89,P16,29,Whisper
+615.11,621.92,P15,4,Follow-Up Question
+629.96,634.99,P16,29,Whisper
+631.0,638.15,P16,4,Follow-Up Question
+631.0,638.15,P16,29,Whisper
+643.95,655.07,P16,31,Thank You
+643.95,655.07,P16,6,Relevancy
+678.14,686.89,P16,2,Mhm
+694.9,698.12,P15,1,Short Response
+754.93,761.16,P15,29,Whisper
+754.93,761.16,P15,31,Thank You
+757.16,767.03,P16,30,Laugh
+757.16,767.03,P16,29,Whisper

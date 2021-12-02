@@ -1,0 +1,25 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+27,96,P6,17,shaking head 
+148,329,P6,4,moving towards 
+244,420,P6,5,eye contact 
+516,630,P7,5,eye contact 
+664,784,P6,15,moving away 
+873,987,P6,9,whispering
+933,1048,P6,4,moving towards 
+961,1142,P6,5,eye contact 
+1140,1289,P7,5,eye contact 
+1559,1710,P6,5,eye contact 
+1773,1835,P7,8,smiling at agent
+2314,2434,P6,4,moving towards 
+2399,2580,P7,5,eye contact 
+3871,4592,P6,5,eye contact 
+3900,3964,P7,4,moving towards 
+3934,4109,P7,4,moving towards 
+4170,4354,P7,15,moving away 
+4440,4650,P7,5,eye contact 
+4925,5097,P6,5,eye contact 
+4951,5040,P6,4,moving towards 
+4977,5045,P7,15,moving away 
+5190,5761,P7,5,eye contact 
+5367,5552,P6,5,eye contact 
+540,784,P6,23,Glance at Others

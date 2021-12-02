@@ -1,0 +1,42 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+355.02,356.096,P24,2,acknowledgement 
+359.024,364.052,P24,3,repair
+373.008,378.032,P24,10,laughing
+387.02,393.008,P24,3,repair
+397.036,399.004,P24,3,repair
+404.076,409.0,P25,9,whispering
+473.044,476.024,P24,10,laughing
+490.052,494.028,P25,21,cut off agent
+497.988,509.016,P24,3,repair
+539.024,541.04,P24,21,cut off agent
+546.995,550.027,P24,21,cut off agent
+575.019,577.015,P24,21,cut off agent
+575.079,579.051,P25,9,whispering
+583.087,590.02,P25,9,whispering
+592.052,594.052,P25,21,cut off agent
+594.068,596.012,P24,2,acknowledgement 
+694.028,700.012,P25,9,whispering
+720.056,721.988,P24,2,acknowledgement 
+724.02,726.984,P25,9,whispering
+833.011,835.039,P25,9,whispering
+879.083,881.999,P25,19,judgemental 
+900.036,901.076,P25,19,judgemental 
+903.048,908.08,P25,20,insult
+920.04,923.0,P25,9,whispering
+1037.008,1044.008,P25,9,whispering
+1043.016,1046.052,P24,9,whispering
+1058.0,1059.992,P24,9,whispering
+354.088,357.992,P24,1,Short Response
+471.008,479.064,P24,30,Laugh
+490.036,495.024,P25,37,Interrupt 
+536.08,544.992,P24,37,Interrupt 
+545.02,549.035,P24,37,Interrupt 
+573.051,576.087,P24,37,Interrupt 
+590.032,594.004,P25,37,Interrupt 
+594.096,596.084,P24,1,Short Response
+686.052,690.096,P24,29,Whisper
+692.036,696.016,P25,29,Whisper
+717.024,721.032,P24,1,Short Response
+869.067,873.047,P25,4,Follow-Up Question
+878.007,881.983,P25,2,Mhm
+899.06,908.024,P25,29,Whisper

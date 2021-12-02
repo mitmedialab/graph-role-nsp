@@ -1,0 +1,400 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+7404,7530,P13,5,eye contact 
+7406,7556,P12,5,eye contact 
+7408,7527,P9,5,eye contact 
+7409,7620,P14,5,eye contact 
+7434,7527,P10,5,eye contact 
+7530,7644,P12,8,smiling at agent
+7619,7764,P12,8,smiling at agent
+7677,7734,P9,15,moving away 
+7763,8246,P13,5,eye contact 
+7792,8153,P10,5,eye contact 
+7799,7913,P11,5,eye contact 
+7823,8183,P12,5,eye contact 
+7853,8428,P14,5,eye contact 
+7882,7920,P11,9,whispering
+8033,8220,P11,5,eye contact 
+8070,8247,P12,8,smiling at agent
+8124,8367,P10,8,smiling at agent
+8159,8280,P9,15,moving away 
+8244,8366,P13,8,smiling at agent
+8369,8428,P9,4,moving towards 
+8544,8907,P14,5,eye contact 
+8547,8603,P12,9,whispering
+8695,8910,P12,5,eye contact 
+8969,9142,P12,8,smiling at agent
+8994,9030,P11,15,moving away 
+9090,9209,P11,9,whispering
+9203,9474,P12,8,smiling at agent
+9266,9479,P14,5,eye contact 
+9357,9444,P9,6,nodding
+9412,9505,P14,4,moving towards 
+9562,9714,P9,4,moving towards 
+9810,10260,P12,5,eye contact 
+9838,9955,P11,4,moving towards 
+10252,10344,P11,5,eye contact 
+10260,10466,P9,5,eye contact 
+10436,10522,P11,9,whispering
+10680,10794,P12,8,smiling at agent
+10733,10860,P14,9,whispering
+10882,11002,P9,9,whispering
+11095,11308,P10,5,eye contact 
+11125,11487,P12,5,eye contact 
+11130,11335,P13,4,moving towards 
+11214,11244,P9,4,moving towards 
+11365,11400,P10,8,smiling at agent
+11370,11488,P14,5,eye contact 
+11430,11490,P11,9,whispering
+11577,11782,P9,5,eye contact 
+11609,11669,P12,9,whispering
+11814,12029,P11,5,eye contact 
+11845,12089,P13,6,nodding
+11995,12084,P10,6,nodding
+12026,12177,P9,6,nodding
+12055,12300,P12,5,eye contact 
+12113,12329,P9,5,eye contact 
+12329,12504,P10,5,eye contact 
+12594,12720,P9,5,eye contact 
+12656,12713,P10,9,whispering
+12956,13162,P11,5,eye contact 
+12984,13195,P12,4,moving towards 
+13047,13500,P14,5,eye contact 
+13139,13378,P9,5,eye contact 
+13169,13288,P10,5,eye contact 
+13315,13437,P14,8,smiling at agent
+13380,13439,P10,8,smiling at agent
+13462,13620,P14,4,moving towards 
+13494,13736,P13,5,eye contact 
+13590,13830,P10,8,smiling at agent
+13739,14395,P14,5,eye contact 
+13945,14218,P12,5,eye contact 
+14484,14874,P11,5,eye contact 
+14486,14907,P12,5,eye contact 
+14549,14910,P10,5,eye contact 
+14549,15082,P14,5,eye contact 
+14635,14782,P9,6,nodding
+14760,15235,P13,5,eye contact 
+14932,15057,P9,5,eye contact 
+14994,15115,P11,9,whispering
+15030,15148,P10,9,whispering
+15444,16259,P12,5,eye contact 
+15477,15690,P13,5,eye contact 
+15565,15983,P11,5,eye contact 
+15629,16020,P10,5,eye contact 
+15660,15862,P14,9,whispering
+15865,16108,P12,5,eye contact 
+15867,16439,P13,5,eye contact 
+16077,16494,P14,5,eye contact 
+16200,16470,P10,5,eye contact 
+16227,16312,P12,9,whispering
+16435,16495,P13,15,moving away 
+16680,16853,P12,9,whispering
+16767,17008,P10,4,moving towards 
+17003,17247,P11,5,eye contact 
+17068,17303,P14,5,eye contact 
+17244,17366,P11,5,eye contact 
+17394,17580,P9,5,eye contact 
+17490,18178,P14,5,eye contact 
+17516,17579,P11,8,smiling at agent
+17543,17938,P10,5,eye contact 
+17637,17873,P11,5,eye contact 
+17639,17906,P12,5,eye contact 
+17902,17940,P10,9,whispering
+17906,17995,P11,5,eye contact 
+18089,18292,P12,5,eye contact 
+18388,18503,P11,4,moving towards 
+18475,18810,P14,5,eye contact 
+18532,18624,P10,8,smiling at agent
+18562,18896,P12,9,whispering
+18595,18682,P9,9,whispering
+18744,18834,P10,5,eye contact 
+18955,19043,P14,8,smiling at agent
+18956,19103,P11,8,smiling at agent
+18959,19109,P12,8,smiling at agent
+19012,19073,P10,8,smiling at agent
+19528,19613,P11,9,whispering
+19590,19709,P11,4,moving towards 
+19859,20010,P11,8,smiling at agent
+19972,20276,P14,4,moving towards 
+20160,20242,P11,9,whispering
+20339,20427,P10,9,whispering
+20455,20575,P9,5,eye contact 
+20549,20877,P10,5,eye contact 
+20666,20873,P9,1,waving
+20693,20820,P11,5,eye contact 
+20700,20997,P14,5,eye contact 
+20817,20905,P11,5,eye contact 
+20846,20902,P9,5,eye contact 
+20992,21113,P10,5,eye contact 
+20998,21173,P9,5,eye contact 
+21090,21359,P11,5,eye contact 
+21114,21510,P12,5,eye contact 
+21382,21479,P9,5,eye contact 
+21390,21540,P11,9,whispering
+21449,21658,P14,4,moving towards 
+21568,21687,P10,5,eye contact 
+21628,21840,P12,4,moving towards 
+21780,21892,P12,5,eye contact 
+21807,21955,P13,9,whispering
+22072,22170,P10,5,eye contact 
+22166,22406,P12,5,eye contact 
+22168,22347,P11,5,eye contact 
+22433,22553,P10,4,moving towards 
+22522,22679,P9,5,eye contact 
+22553,22679,P11,5,eye contact 
+22854,23608,P12,8,smiling at agent
+22920,23153,P10,5,eye contact 
+22920,23245,P11,5,eye contact 
+23094,24355,P13,5,eye contact 
+23156,23274,P9,6,nodding
+23336,23400,P10,9,whispering
+23670,23813,P12,9,whispering
+23729,23788,P10,8,smiling at agent
+23782,23935,P9,5,eye contact 
+23849,23964,P11,4,moving towards 
+24202,24537,P12,8,smiling at agent
+24269,24563,P14,5,eye contact 
+24570,24683,P11,5,eye contact 
+24803,25073,P11,5,eye contact 
+24929,25075,P9,6,nodding
+25076,25197,P11,5,eye contact 
+25342,25560,P10,5,eye contact 
+25345,25589,P11,5,eye contact 
+25377,25709,P13,4,moving towards 
+25499,25590,P10,9,whispering
+25528,25706,P13,5,eye contact 
+25616,25703,P11,5,eye contact 
+25854,26006,P10,5,eye contact 
+25914,25978,P11,5,eye contact 
+26067,26368,P12,5,eye contact 
+26160,26548,P14,5,eye contact 
+26187,26368,P10,9,whispering
+26213,26820,P13,5,eye contact 
+26603,26728,P10,5,eye contact 
+26634,27088,P12,5,eye contact 
+26662,26698,P11,5,eye contact 
+26700,26844,P9,9,whispering
+26845,26905,P11,9,whispering
+27233,27354,P11,4,moving towards 
+27262,27442,P10,6,nodding
+27355,27627,P12,18,body language
+27446,27659,P14,5,eye contact 
+27448,27540,P9,5,eye contact 
+27504,27629,P11,4,moving towards 
+27987,28193,P11,5,eye contact 
+27988,28258,P12,8,smiling at agent
+28102,28225,P10,5,eye contact 
+28282,28435,P13,5,eye contact 
+28319,28407,P11,8,smiling at agent
+28405,28526,P14,5,eye contact 
+28406,28705,P10,5,eye contact 
+28524,28647,P11,5,eye contact 
+28648,28710,P11,5,eye contact 
+28733,28919,P12,8,smiling at agent
+28795,28916,P11,5,eye contact 
+28828,28946,P10,8,smiling at agent
+29303,29422,P14,9,whispering
+29303,29728,P12,8,smiling at agent
+29306,29543,P11,4,moving towards 
+29546,29873,P9,6,nodding
+29787,30057,P14,9,whispering
+29817,30027,P10,9,whispering
+29994,30596,P13,9,whispering
+30030,30113,P11,5,eye contact 
+30507,30629,P9,5,eye contact 
+30566,30715,P13,4,moving towards 
+30868,31290,P9,5,eye contact 
+30926,31042,P11,5,eye contact 
+31168,31198,P11,16,pointing at agent
+31290,31437,P10,4,moving towards 
+31498,31825,P12,8,smiling at agent
+31530,31647,P10,5,eye contact 
+31706,31824,P10,5,eye contact 
+31740,31825,P14,5,eye contact 
+31765,31793,P11,15,moving away 
+7409,7620,P14,8,Move Away
+7582,7704,P9,8,Move Away
+7619,7732,P11,23,Glance at Others
+7644,7762,P10,22,Look Away
+7677,7734,P12,24,Smile
+8033,8220,P11,22,Look Away
+8070,8247,P12,23,Glance at Others
+8070,8247,P12,24,Smile
+8124,8367,P10,24,Smile
+8182,8334,P14,23,Glance at Others
+8244,8366,P13,8,Move Away
+8694,8905,P14,23,Glance at Others
+8695,8910,P12,21,Switch Eye Contact
+8728,8910,P11,23,Glance at Others
+8813,8937,P9,23,Glance at Others
+8933,9114,P12,24,Smile
+8933,9114,P12,23,Glance at Others
+8966,9059,P10,24,Smile
+8966,9059,P10,23,Glance at Others
+9027,9176,P14,23,Glance at Others
+9203,9474,P12,23,Glance at Others
+9233,9382,P11,23,Glance at Others
+9266,9479,P14,24,Smile
+9357,9444,P12,21,Switch Eye Contact
+9412,9505,P14,7,Move Toward
+9838,9953,P10,21,Switch Eye Contact
+9838,9955,P9,12,Luring
+9899,9988,P12,21,Switch Eye Contact
+10137,10318,P12,23,Glance at Others
+10252,10344,P11,22,Look Away
+10642,10738,P10,23,Glance at Others
+10680,10794,P12,24,Smile
+10680,10794,P12,23,Glance at Others
+11577,11782,P9,12,Luring
+11814,12029,P11,21,Switch Eye Contact
+11845,12089,P14,21,Switch Eye Contact
+11847,12084,P9,13,Nod 
+11847,12084,P9,23,Glance at Others
+11937,12147,P13,23,Glance at Others
+11937,12147,P13,13,Nod 
+11937,12147,P13,27,Downward Frown
+11937,12060,P10,23,Glance at Others
+11937,12060,P10,13,Nod 
+12026,12177,P12,21,Switch Eye Contact
+12113,12329,P9,13,Nod 
+12147,12292,P11,23,Glance at Others
+12329,12504,P10,21,Switch Eye Contact
+13047,13500,P12,21,Switch Eye Contact
+13139,13378,P9,23,Glance at Others
+13139,13378,P9,12,Luring
+13169,13288,P10,21,Switch Eye Contact
+13223,13406,P13,21,Switch Eye Contact
+13255,13410,P11,23,Glance at Others
+13255,13410,P11,21,Switch Eye Contact
+13315,13437,P14,21,Switch Eye Contact
+13375,13434,P10,10,Point
+14484,14874,P11,21,Switch Eye Contact
+14484,14874,P11,20,Hand Gesture
+14486,14907,P12,23,Glance at Others
+14549,14910,P10,22,Look Away
+14549,15082,P14,23,Glance at Others
+14549,14910,P10,21,Switch Eye Contact
+14635,14782,P9,13,Nod 
+14760,15235,P13,21,Switch Eye Contact
+14932,15057,P9,12,Luring
+15117,15294,P10,20,Hand Gesture
+15202,15328,P13,23,Glance at Others
+15204,15352,P11,21,Switch Eye Contact
+15204,15356,P14,21,Switch Eye Contact
+15232,15388,P12,21,Switch Eye Contact
+15865,16108,P12,23,Glance at Others
+16077,16494,P14,21,Switch Eye Contact
+16200,16470,P10,21,Switch Eye Contact
+16200,16470,P10,13,Nod 
+16227,16312,P12,23,Glance at Others
+17003,17247,P11,23,Glance at Others
+17033,17183,P9,22,Look Away
+17036,17244,P13,7,Move Toward
+17068,17303,P14,21,Switch Eye Contact
+17093,17220,P10,24,Smile
+17184,17273,P12,23,Glance at Others
+17370,17546,P11,23,Glance at Others
+17394,17580,P9,21,Switch Eye Contact
+17637,17873,P11,20,Hand Gesture
+17637,17873,P11,13,Nod 
+17639,17906,P12,23,Glance at Others
+17786,17904,P9,23,Glance at Others
+17786,17904,P9,27,Downward Frown
+17844,17935,P10,10,Point
+18089,18292,P14,23,Glance at Others
+18475,18810,P14,21,Switch Eye Contact
+18532,18624,P10,24,Smile
+18562,18896,P12,21,Switch Eye Contact
+18953,19019,P11,24,Smile
+18955,19043,P14,24,Smile
+18956,19103,P11,23,Glance at Others
+18959,19109,P12,24,Smile
+18982,19043,P9,24,Smile
+19859,20010,P11,24,Smile
+19972,20276,P14,7,Move Toward
+20549,20877,P10,21,Switch Eye Contact
+20637,20817,P12,23,Glance at Others
+20700,20997,P14,21,Switch Eye Contact
+21059,21147,P9,12,Luring
+21090,21359,P11,21,Switch Eye Contact
+21207,21325,P12,21,Switch Eye Contact
+21449,21658,P14,12,Luring
+21568,21687,P10,22,Look Away
+21628,21840,P12,21,Switch Eye Contact
+21809,22020,P14,7,Move Toward
+21930,22018,P10,26,Inquisitive Eyebrow
+21930,22018,P10,20,Hand Gesture
+22139,22317,P14,7,Move Toward
+22166,22377,P10,21,Switch Eye Contact
+22166,22377,P10,23,Glance at Others
+22195,22344,P9,27,Downward Frown
+22522,22679,P9,23,Glance at Others
+22529,22734,P10,21,Switch Eye Contact
+22529,22734,P10,23,Glance at Others
+22553,22679,P11,23,Glance at Others
+22854,23608,P12,23,Glance at Others
+22920,23245,P14,7,Move Toward
+23156,23274,P9,13,Nod 
+23338,23483,P9,13,Nod 
+23670,23813,P12,13,Nod 
+23729,23788,P10,23,Glance at Others
+23782,23935,P11,20,Hand Gesture
+24177,24360,P13,24,Smile
+24202,24537,P12,24,Smile
+24239,24413,P10,24,Smile
+24239,24413,P10,23,Glance at Others
+24269,24563,P14,24,Smile
+24803,25073,P11,23,Glance at Others
+24863,25017,P10,23,Glance at Others
+24863,25017,P10,24,Smile
+24865,25050,P12,24,Smile
+24929,25075,P9,23,Glance at Others
+24929,25075,P9,18,Generic Dance
+25342,25560,P10,10,Point
+25345,25589,P11,28,Mouth Open
+25499,25590,P9,22,Look Away
+25582,25740,P12,10,Point
+25825,25977,P9,23,Glance at Others
+25854,26006,P10,24,Smile
+25854,26006,P10,23,Glance at Others
+25857,25977,P11,23,Glance at Others
+26003,26152,P9,12,Luring
+26160,26548,P10,20,Hand Gesture
+26187,26368,P14,21,Switch Eye Contact
+26603,26728,P10,22,Look Away
+26634,27088,P12,23,Glance at Others
+26662,26698,P11,26,Inquisitive Eyebrow
+27112,27239,P11,20,Hand Gesture
+27262,27442,P10,23,Glance at Others
+27262,27442,P10,13,Nod 
+27355,27627,P12,23,Glance at Others
+27446,27659,P14,21,Switch Eye Contact
+27448,27540,P9,28,Mouth Open
+27504,27629,P11,7,Move Toward
+27988,28258,P12,23,Glance at Others
+28102,28225,P9,28,Mouth Open
+28102,28225,P9,23,Glance at Others
+28282,28435,P13,7,Move Toward
+28283,28466,P11,23,Glance at Others
+28290,28433,P10,21,Switch Eye Contact
+28320,28494,P14,10,Point
+28346,28463,P12,23,Glance at Others
+28378,28462,P9,21,Switch Eye Contact
+28406,28705,P10,21,Switch Eye Contact
+28524,28647,P11,28,Mouth Open
+28733,28919,P12,24,Smile
+28795,28916,P11,25,Judgemental Eyebrow
+28795,28916,P11,22,Look Away
+28795,28916,P11,23,Glance at Others
+28828,28946,P10,23,Glance at Others
+29188,29362,P12,24,Smile
+29303,29728,P10,24,Smile
+29546,29873,P9,16,Imitation
+29994,30596,P13,20,Hand Gesture
+30179,30412,P11,13,Nod 
+30687,31079,P11,23,Glance at Others
+30868,31290,P9,14,Shake Head 
+31290,31378,P11,10,Point
+31498,31825,P12,23,Glance at Others
+31524,31766,P9,22,Look Away
+31706,31824,P10,23,Glance at Others

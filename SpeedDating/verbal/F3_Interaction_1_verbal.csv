@@ -1,0 +1,78 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+293.093,296.069,P7,3,repair
+307.097,311.093,P8,10,laughing
+307.097,315.081,P7,10,laughing
+311.017,313.033,P6,2,acknowledgement 
+336.105,342.081,P6,10,laughing
+338.069,344.037,P7,10,laughing
+393.013,396.021,P6,19,judgemental 
+393.093,398.025,P7,10,laughing
+409.037,425.069,P6,10,laughing
+412.069,426.109,P7,11,exclamation
+454.001,458.001,P6,20,insult
+455.041,457.077,P6,10,laughing
+455.057,460.097,P7,10,laughing
+465.013,472.013,P7,3,repair
+486.037,489.065,P6,9,whispering
+498.041,501.001,P6,10,laughing
+498.105,503.097,P7,10,laughing
+499.093,502.053,P6,2,acknowledgement 
+522.025,531.049,P6,3,repair
+538.105,542.009,P7,10,laughing
+539.037,541.061,P6,10,laughing
+539.089,543.101,P8,10,laughing
+565.069,571.009,P7,14,positive tone 
+576.021,579.069,P6,2,acknowledgement 
+577.005,582.081,P7,10,laughing
+593.081,599.105,P7,10,laughing
+595.085,599.077,P6,11,exclamation
+609.045,618.081,P6,19,judgemental 
+624.037,629.053,P6,10,laughing
+628.065,631.033,P6,10,laughing
+630.001,634.105,P6,13,compliment
+631.109,636.089,P7,13,compliment
+668.077,671.057,P6,20,insult
+681.061,685.041,P6,10,laughing
+685.045,688.105,P7,10,laughing
+749.081,755.097,P6,10,laughing
+750.009,756.013,P7,10,laughing
+767.089,775.993,P6,10,laughing
+800.013,813.057,P7,10,laughing
+805.037,810.997,P6,10,laughing
+829.065,837.109,P7,3,repair
+830.093,835.097,P6,3,repair
+869.065,873.009,P7,9,whispering
+894.077,897.005,P7,9,whispering
+896.045,900.097,P6,3,repair
+929.085,933.105,P7,10,laughing
+955.089,959.041,P6,19,judgemental 
+962.993,972.077,P7,3,repair
+970.101,974.993,P7,12,"""thank you"""
+987.045,990.101,P7,19,judgemental 
+307.013,312.993,P7,35,Judgemental Verbal
+308.057,313.009,P6,30,Laugh
+308.061,311.029,P8,30,Laugh
+336.101,343.093,P7,30,Laugh
+394.049,397.097,P7,36,Angry Verbal
+394.049,397.097,P7,4,Follow-Up Question
+412.057,425.021,P6,30,Laugh
+421.089,425.997,P7,30,Laugh
+453.997,457.081,P6,35,Judgemental Verbal
+498.041,503.109,P6,3,Answer Question
+573.041,580.077,P7,6,Relevancy
+573.101,579.053,P6,30,Laugh
+593.085,599.005,P7,4,Follow-Up Question
+609.065,629.005,P7,4,Follow-Up Question
+609.065,629.005,P7,30,Laugh
+631.029,633.057,P6,30,Laugh
+633.061,635.053,P7,6,Relevancy
+665.009,667.997,P7,35,Judgemental Verbal
+665.109,671.077,P6,30,Laugh
+665.109,671.077,P6,35,Judgemental Verbal
+764.061,776.041,P6,4,Follow-Up Question
+764.061,776.041,P6,30,Laugh
+807.045,811.049,P6,30,Laugh
+930.005,932.073,P7,30,Laugh
+954.061,960.069,P6,4,Follow-Up Question
+983.017,987.101,P6,35,Judgemental Verbal
+1030.013,1033.105,P6,30,Laugh

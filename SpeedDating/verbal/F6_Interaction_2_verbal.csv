@@ -1,0 +1,6 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+1.02,2.87,P19,9,whispering
+3.74,5.86,P18,21,cut off agent
+3.0,8.89,P18,37,Interrupt 
+64.92,68.83,P18,29,Whisper
+74.93,78.93,P17,5,Exclamation

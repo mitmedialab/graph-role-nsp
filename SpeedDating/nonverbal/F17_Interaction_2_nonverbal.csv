@@ -1,0 +1,67 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+33,240,P38,5,eye contact 
+61,356,P37,5,eye contact 
+210,303,P38,8,smiling at agent
+870,899,P37,5,eye contact 
+956,1349,P37,5,eye contact 
+988,1225,P38,5,eye contact 
+1316,1383,P38,8,smiling at agent
+1678,1736,P37,4,moving towards 
+1743,1832,P37,5,eye contact 
+2457,2545,P37,4,moving towards 
+2462,2817,P38,5,eye contact 
+2606,2668,P37,9,whispering
+2730,2818,P37,5,eye contact 
+2791,3145,P37,5,eye contact 
+3055,3148,P38,5,eye contact 
+3209,3447,P38,5,eye contact 
+3511,3572,P38,9,whispering
+3600,3778,P37,5,eye contact 
+3745,3961,P38,5,eye contact 
+3842,3900,P38,18,body language
+3933,3988,P38,16,pointing at agent
+4081,4172,P37,9,whispering
+4436,4533,P37,5,eye contact 
+4858,4947,P37,4,moving towards 
+5215,5283,P38,9,whispering
+6000,6927,P38,5,eye contact 
+6871,7137,P37,5,eye contact 
+6926,7165,P38,5,eye contact 
+7317,8971,P38,5,eye contact 
+7437,8973,P37,5,eye contact 
+9150,9535,P38,5,eye contact 
+9357,9541,P37,5,eye contact 
+9746,9987,P38,5,eye contact 
+10410,10795,P38,5,eye contact 
+11006,11312,P38,5,eye contact 
+122,332,P37,24,Smile
+272,357,P38,24,Smile
+273,512,P37,24,Smile
+536,600,P38,24,Smile
+993,1350,P38,24,Smile
+1107,1318,P37,24,Smile
+2763,2848,P38,27,Downward Frown
+3147,3177,P38,23,Glance at Others
+3360,3450,P38,24,Smile
+3838,3989,P38,10,Point
+3838,3989,P38,23,Glance at Others
+3838,3989,P38,24,Smile
+4649,4800,P37,7,Move Toward
+5221,5306,P38,25,Judgemental Eyebrow
+5817,5939,P38,25,Judgemental Eyebrow
+6208,6388,P38,15,Tilt Head
+6208,6388,P38,26,Inquisitive Eyebrow
+7618,7735,P38,23,Glance at Others
+7647,7765,P37,23,Glance at Others
+7647,7765,P37,24,Smile
+7982,8099,P38,15,Tilt Head
+7982,8099,P38,26,Inquisitive Eyebrow
+8095,8306,P38,23,Glance at Others
+8095,8306,P38,24,Smile
+8095,8306,P38,8,Move Away
+8373,8551,P38,14,Shake Head 
+8455,8726,P37,21,Switch Eye Contact
+8969,9057,P38,23,Glance at Others
+8997,9179,P37,21,Switch Eye Contact
+9362,9566,P38,21,Switch Eye Contact
+11132,11282,P38,26,Inquisitive Eyebrow

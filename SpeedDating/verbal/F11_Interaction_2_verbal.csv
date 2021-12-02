@@ -1,0 +1,62 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+8.27,10.14,P30,19,judgemental 
+10.07,11.27,P30,13,compliment
+17.18,25.28,P29,3,repair
+18.15,22.17,P30,10,laughing
+34.14,36.21,P3,10,laughing
+35.11,39.05,P29,10,laughing
+63.02,64.05,P30,9,whispering
+68.1,72.1,P30,3,repair
+132.25,138.02,P29,3,repair
+139.28,142.13,P30,3,repair
+146.11,151.09,P30,3,repair
+154.21,159.26,P30,3,repair
+171.27,173.07,P30,2,acknowledgement 
+194.24,197.2,P30,10,laughing
+215.03,218.0,P30,10,laughing
+231.25,234.14,P30,3,repair
+243.01,244.11,P30,19,judgemental 
+272.14,276.05,P29,9,whispering
+289.06,294.02,P30,21,cut off agent
+294.06,295.15,P30,21,cut off agent
+322.27,326.06,P30,14,positive tone 
+326.01,328.02,P29,2,acknowledgement 
+326.19,329.01,P30,9,whispering
+353.24,358.27,P29,10,laughing
+356.19,359.14,P30,20,insult
+364.07,370.25,P29,10,laughing
+373.08,375.11,P29,3,repair
+389.1,407.22,P29,3,repair
+410.06,412.26,P30,9,whispering
+434.25,437.19,P30,3,repair
+440.08,445.14,P30,3,repair
+6.28,9.18,P30,35,Judgemental Verbal
+9.18,12.21,P30,32,Compliment
+21.14,23.04,P30,30,Laugh
+34.25,41.28,P30,30,Laugh
+34.25,41.28,P30,6,Relevancy
+34.25,41.28,P30,4,Follow-Up Question
+37.13,41.28,P29,30,Laugh
+41.24,43.2,P29,29,Whisper
+95.25,104.11,P30,29,Whisper
+141.24,147.14,P30,30,Laugh
+171.11,173.25,P30,6,Relevancy
+193.0,197.0,P30,30,Laugh
+214.06,218.05,P30,35,Judgemental Verbal
+221.02,229.06,P30,2,Mhm
+221.02,229.06,P30,30,Laugh
+239.2,244.19,P30,35,Judgemental Verbal
+274.22,277.01,P30,29,Whisper
+289.11,295.14,P30,37,Interrupt 
+323.13,330.16,P29,1,Short Response
+323.13,330.16,P29,3,Answer Question
+323.28,329.2,P30,3,Answer Question
+323.28,329.2,P30,30,Laugh
+350.08,358.22,P30,6,Relevancy
+353.22,358.22,P29,30,Laugh
+367.17,371.28,P29,30,Laugh
+384.04,387.11,P30,2,Mhm
+410.07,413.08,P30,29,Whisper
+427.02,432.13,P30,4,Follow-Up Question
+440.99,444.16,P30,4,Follow-Up Question
+447.22,452.21,P30,6,Relevancy

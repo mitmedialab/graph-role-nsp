@@ -1,0 +1,54 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+68.08,84.03,P25,19,judgemental 
+82.08,84.09,P24,2,acknowledgement 
+103.96,107.13,P24,3,repair
+126.95,128.97,P24,19,judgemental 
+171.93,176.08,P25,9,whispering
+226.93,228.98,P24,10,laughing
+238.05,241.06,P24,21,cut off agent
+258.85,272.05,P24,3,repair
+276.11,277.96,P24,2,acknowledgement 
+278.92,283.88,P24,10,laughing
+302.86,304.05,P25,21,cut off agent
+303.97,307.05,P25,21,cut off agent
+308.88,311.04,P24,21,cut off agent
+337.04,346.85,P25,19,judgemental 
+345.13,351.04,P24,10,laughing
+356.91,373.12,P24,22,harsh repair 
+379.88,387.08,P25,19,judgemental 
+386.12,388.88,P24,19,judgemental 
+431.87,434.05,P24,12,"""thank you"""
+474.03,485.02,P25,10,laughing
+474.09,493.07,P24,10,laughing
+480.11,493.01,P25,10,laughing
+571.91,577.03,P24,3,repair
+590.86,594.02,P25,9,whispering
+596.06,598.94,P24,9,whispering
+597.04,601.03,P25,9,whispering
+643.9,646.03,P24,12,"""thank you"""
+647.05,650.87,P25,9,whispering
+652.0,654.92,P24,12,"""thank you"""
+652.93,654.13,P24,12,"""thank you"""
+75.93,85.08,P24,31,Thank You
+75.93,85.08,P24,30,Laugh
+124.11,127.86,P24,35,Judgemental Verbal
+128.05,130.91,P25,29,Whisper
+154.09,160.04,P24,6,Relevancy
+270.93,273.85,P24,30,Laugh
+275.88,278.95,P24,3,Answer Question
+301.01,306.92,P25,32,Compliment
+301.01,306.92,P25,37,Interrupt 
+317.08,324.08,P25,6,Relevancy
+345.11,350.07,P24,30,Laugh
+384.14,388.85,P24,29,Whisper
+401.97,406.88,P24,4,Follow-Up Question
+401.97,406.88,P24,30,Laugh
+429.92,433.11,P24,31,Thank You
+478.12,493.07,P24,30,Laugh
+478.12,493.07,P24,32,Compliment
+537.1,540.95,P25,36,Angry Verbal
+555.85,562.01,P24,30,Laugh
+583.03,588.14,P24,1,Short Response
+610.14,622.93,P24,29,Whisper
+610.14,622.93,P24,30,Laugh
+644.01,650.98,P24,31,Thank You

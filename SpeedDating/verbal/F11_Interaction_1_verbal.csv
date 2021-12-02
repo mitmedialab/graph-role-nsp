@@ -1,0 +1,84 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+238.11,240.1,P30,9,whispering
+256.97,267.06,P30,9,whispering
+288.92,294.03,P29,3,repair
+323.03,329.11,P30,3,repair
+340.02,342.0,P29,2,acknowledgement 
+358.14,371.03,P30,9,whispering
+370.88,372.98,P29,3,repair
+382.05,391.13,P30,10,laughing
+394.96,398.94,P30,9,whispering
+402.06,404.95,P30,9,whispering
+416.91,418.91,P30,2,acknowledgement 
+424.9,428.9,P30,19,judgemental 
+458.89,463.01,P30,2,acknowledgement 
+483.01,486.95,P30,10,laughing
+492.03,501.89,P29,3,repair
+497.02,502.05,P30,3,repair
+521.86,526.97,P29,3,repair
+528.85,533.88,P30,3,repair
+553.96,557.01,P30,10,laughing
+560.94,568.13,P30,9,whispering
+567.12,569.92,P30,19,judgemental 
+569.87,571.03,P29,3,repair
+570.99,576.97,P30,3,repair
+576.86,578.1,P29,3,repair
+581.94,584.88,P29,11,exclamation
+583.86,585.9,P30,20,insult
+601.1,605.87,P29,10,laughing
+603.99,605.96,P30,10,laughing
+612.05,624.9,P29,3,repair
+613.0,619.91,P30,3,repair
+617.12,619.07,P30,3,repair
+626.01,630.98,P29,9,whispering
+667.12,674.07,P29,3,repair
+670.85,673.88,P30,3,repair
+688.12,690.14,P30,13,compliment
+702.08,704.99,P29,3,repair
+775.85,783.01,P29,3,repair
+805.86,811.97,P29,3,repair
+809.04,813.88,P30,3,repair
+821.9,825.85,P30,9,whispering
+852.11,858.85,P30,3,repair
+890.11,892.86,P29,2,acknowledgement 
+899.88,902.99,P30,9,whispering
+911.95,917.1,P30,9,whispering
+933.09,945.97,P29,3,repair
+944.04,945.91,P30,3,repair
+956.06,958.89,P30,9,whispering
+1044.13,1047.04,P30,21,cut off agent
+1044.94,1046.14,P30,12,"""thank you"""
+1053.1,1056.85,P30,21,cut off agent
+230.13,243.01,P30,29,Whisper
+252.85,254.13,P30,29,Whisper
+266.9,270.87,P30,29,Whisper
+323.03,329.93,P30,4,Follow-Up Question
+340.99,344.93,P29,1,Short Response
+340.99,344.93,P29,3,Answer Question
+363.0,371.09,P30,29,Whisper
+363.0,371.09,P30,32,Compliment
+376.0,398.96,P29,30,Laugh
+394.95,398.1,P30,29,Whisper
+415.96,418.97,P30,6,Relevancy
+424.88,427.12,P30,34,Insult
+460.12,462.97,P30,3,Answer Question
+463.1,468.86,P30,2,Mhm
+477.99,486.91,P30,30,Laugh
+477.99,486.91,P30,6,Relevancy
+506.0,514.85,P30,5,Exclamation
+533.1,537.02,P29,3,Answer Question
+552.95,555.96,P30,30,Laugh
+568.03,571.0,P29,4,Follow-Up Question
+568.86,573.11,P30,35,Judgemental Verbal
+581.08,585.13,P29,5,Exclamation
+583.14,585.88,P30,6,Relevancy
+603.98,606.07,P30,30,Laugh
+687.92,691.86,P30,29,Whisper
+884.98,893.02,P29,1,Short Response
+884.98,893.02,P29,3,Answer Question
+889.85,891.91,P30,1,Short Response
+893.08,901.11,P30,6,Relevancy
+957.12,959.94,P30,6,Relevancy
+1044.98,1046.95,P30,31,Thank You
+1044.98,1046.95,P30,37,Interrupt 
+1054.88,1056.98,P30,37,Interrupt 

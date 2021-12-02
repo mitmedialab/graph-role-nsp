@@ -1,0 +1,15 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+8.13,13.17,P3,21,cut off agent
+10.18,13.23,P2,21,cut off agent
+31.25,36.99,P3,10,laughing
+34.09,37.05,P2,10,laughing
+34.17,36.27,P1,10,laughing
+34.18,37.1,P1,10,laughing
+76.07,79.99,P2,21,cut off agent
+99.21,104.04,P2,3,repair
+107.16,108.27,P2,2,acknowledgement 
+124.06,130.04,P3,10,laughing
+127.12,130.13,P2,10,laughing
+29.02,36.21,P1,30,Laugh
+124.07,130.01,P3,30,Laugh
+126.26,128.1,P2,30,Laugh

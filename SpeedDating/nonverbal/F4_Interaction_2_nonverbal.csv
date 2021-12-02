@@ -1,0 +1,79 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+0,147,P14,5,eye contact 
+120,660,P11,5,eye contact 
+121,421,P12,5,eye contact 
+206,480,P10,5,eye contact 
+391,505,P13,5,eye contact 
+565,810,P13,5,eye contact 
+692,782,P12,5,eye contact 
+692,866,P9,5,eye contact 
+812,984,P11,5,eye contact 
+1081,1348,P12,5,eye contact 
+1104,1291,P9,5,eye contact 
+1140,1293,P13,5,eye contact 
+1383,1527,P11,4,moving towards 
+1436,2037,P10,5,eye contact 
+1468,1711,P13,5,eye contact 
+1561,1767,P12,5,eye contact 
+1681,1764,P11,9,whispering
+1794,2036,P9,5,eye contact 
+1946,2132,P13,16,pointing at agent
+2372,2760,P10,5,eye contact 
+2490,2847,P12,5,eye contact 
+2545,2609,P9,5,eye contact 
+2613,2759,P13,5,eye contact 
+2699,2817,P9,5,eye contact 
+2790,2996,P11,5,eye contact 
+2908,3000,P14,5,eye contact 
+2940,3029,P11,5,eye contact 
+2964,3060,P13,5,eye contact 
+3001,3153,P9,5,eye contact 
+3091,3358,P10,5,eye contact 
+3151,3241,P13,6,nodding
+3238,3330,P9,5,eye contact 
+3417,3596,P11,4,moving towards 
+3423,3838,P12,5,eye contact 
+3506,3864,P13,5,eye contact 
+3543,3805,P14,4,moving towards 
+3687,3809,P11,9,whispering
+3721,3837,P11,4,moving towards 
+3722,4021,P10,5,eye contact 
+3745,3871,P9,5,eye contact 
+3865,4015,P13,4,moving towards 
+4015,4378,P9,5,eye contact 
+4106,4255,P13,5,eye contact 
+4198,4653,P12,5,eye contact 
+4318,4529,P11,16,pointing at agent
+4351,5009,P10,5,eye contact 
+4378,4442,P13,16,pointing at agent
+4500,4616,P14,4,moving towards 
+4530,4593,P13,5,eye contact 
+4622,4683,P13,5,eye contact 
+4739,4860,P11,5,eye contact 
+4802,4978,P9,4,moving towards 
+4948,5038,P14,9,whispering
+4953,5251,P13,8,smiling at agent
+5038,5312,P10,8,smiling at agent
+5072,5275,P9,5,eye contact 
+5156,5247,P12,4,moving towards 
+5307,5424,P11,9,whispering
+5822,6181,P9,4,moving towards 
+1140,1374,P13,21,Switch Eye Contact
+1140,1374,P13,13,Nod 
+1172,1377,P10,23,Glance at Others
+1202,1320,P11,23,Glance at Others
+1226,1408,P12,23,Glance at Others
+1892,2037,P10,23,Glance at Others
+1944,2007,P11,20,Hand Gesture
+1977,2100,P13,10,Point
+2703,2816,P12,12,Luring
+2850,2943,P14,7,Move Toward
+3092,3236,P10,23,Glance at Others
+3236,3270,P13,23,Glance at Others
+3687,3871,P11,8,Move Away
+3813,3927,P11,23,Glance at Others
+4227,4351,P13,20,Hand Gesture
+4411,4555,P11,10,Point
+4442,4533,P14,7,Move Toward
+4528,4591,P12,23,Glance at Others
+5158,5577,P11,27,Downward Frown

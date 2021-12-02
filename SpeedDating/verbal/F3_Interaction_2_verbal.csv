@@ -1,0 +1,17 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+18.01,28.02,P6,10,laughing
+21.94,28.94,P7,10,laughing
+29.12,32.91,P6,9,whispering
+42.19,48.99,P6,19,judgemental 
+45.05,49.14,P7,10,laughing
+85.94,95.1,P7,10,laughing
+86.94,92.07,P6,10,laughing
+89.17,93.94,P6,13,compliment
+152.03,159.01,P6,21,cut off agent
+155.14,159.13,P6,20,insult
+185.09,189.0,P6,21,cut off agent
+18.02,26.15,P6,30,Laugh
+22.04,28.15,P7,30,Laugh
+79.16,90.97,P6,30,Laugh
+86.03,95.11,P7,30,Laugh
+86.03,95.11,P7,32,Compliment

@@ -1,0 +1,124 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+4713,5253,P27,5,eye contact 
+4743,4831,P28,8,smiling at agent
+4887,5068,P28,5,eye contact 
+5157,5254,P28,5,eye contact 
+5879,6183,P28,5,eye contact 
+6183,6240,P27,18,body language
+6510,6572,P27,4,moving towards 
+6627,7048,P27,5,eye contact 
+6720,7019,P28,5,eye contact 
+6812,7022,P27,8,smiling at agent
+7020,7082,P27,6,nodding
+7436,7706,P28,5,eye contact 
+7684,7741,P27,17,shaking head 
+8073,8159,P27,4,moving towards 
+8126,8337,P28,5,eye contact 
+8220,8313,P27,8,smiling at agent
+8336,8397,P28,9,whispering
+8517,9360,P28,5,eye contact 
+8609,9660,P27,5,eye contact 
+9090,9148,P27,9,whispering
+9569,9633,P27,8,smiling at agent
+10109,10649,P28,8,smiling at agent
+10293,10646,P27,8,smiling at agent
+10589,10648,P27,6,nodding
+10857,10952,P27,5,eye contact 
+11549,11823,P27,15,moving away 
+11672,11789,P28,18,body language
+12001,12242,P28,5,eye contact 
+12060,12446,P27,8,smiling at agent
+12839,13084,P27,5,eye contact 
+12960,13082,P28,5,eye contact 
+13590,13796,P27,5,eye contact 
+13676,13772,P28,5,eye contact 
+13804,13834,P28,8,smiling at agent
+13983,14518,P28,5,eye contact 
+14067,14609,P27,5,eye contact 
+14463,14522,P28,8,smiling at agent
+14880,14939,P28,8,smiling at agent
+15211,15601,P27,5,eye contact 
+15213,15541,P28,5,eye contact 
+15390,15451,P27,6,nodding
+15810,16018,P28,5,eye contact 
+15964,16048,P27,6,nodding
+16144,16467,P27,5,eye contact 
+16197,16440,P28,5,eye contact 
+16408,16443,P27,6,nodding
+16618,16827,P28,5,eye contact 
+16891,17520,P27,5,eye contact 
+16977,17516,P27,5,eye contact 
+17643,18180,P28,5,eye contact 
+17967,18183,P27,5,eye contact 
+18147,18181,P27,6,nodding
+18181,18540,P28,5,eye contact 
+18901,18957,P28,16,pointing at agent
+19172,19438,P27,5,eye contact 
+19263,19497,P28,5,eye contact 
+19773,19833,P28,4,moving towards 
+19920,20402,P27,5,eye contact 
+20313,20430,P28,5,eye contact 
+20550,20907,P27,5,eye contact 
+20612,20883,P28,5,eye contact 
+21094,21210,P28,5,eye contact 
+21207,21362,P27,5,eye contact 
+21330,21387,P28,6,nodding
+4924,5278,P27,23,Glance at Others
+4924,5278,P27,26,Inquisitive Eyebrow
+4924,5278,P27,27,Downward Frown
+5068,5311,P28,15,Tilt Head
+5068,5311,P28,27,Downward Frown
+6119,6239,P27,15,Tilt Head
+6119,6239,P27,25,Judgemental Eyebrow
+6753,7107,P27,13,Nod 
+9270,9506,P28,23,Glance at Others
+9270,9506,P28,21,Switch Eye Contact
+9331,9626,P27,25,Judgemental Eyebrow
+9331,9626,P27,23,Glance at Others
+10077,10590,P27,24,Smile
+10077,10590,P27,21,Switch Eye Contact
+10287,10622,P28,24,Smile
+10827,10886,P27,24,Smile
+10833,10889,P27,24,Smile
+11043,11370,P27,23,Glance at Others
+11043,11370,P27,28,Mouth Open
+11157,11370,P28,22,Look Away
+11614,31804,P27,23,Glance at Others
+11786,11879,P27,25,Judgemental Eyebrow
+11791,11848,P27,23,Glance at Others
+11791,11848,P27,20,Hand Gesture
+12063,12446,P28,26,Inquisitive Eyebrow
+12207,12420,P27,23,Glance at Others
+12990,13112,P27,25,Judgemental Eyebrow
+13351,13468,P27,23,Glance at Others
+13410,13504,P28,23,Glance at Others
+15363,15626,P27,23,Glance at Others
+15363,15626,P27,18,Generic Dance
+15932,16018,P27,21,Switch Eye Contact
+15932,16018,P27,11,Shrug
+15956,16020,P28,11,Shrug
+15956,16020,P28,21,Switch Eye Contact
+16436,16501,P27,13,Nod 
+18028,18184,P27,23,Glance at Others
+18028,18184,P27,21,Switch Eye Contact
+18028,18184,P27,13,Nod 
+18420,18694,P28,21,Switch Eye Contact
+18420,18694,P28,23,Glance at Others
+18450,18687,P27,10,Point
+18450,18687,P27,23,Glance at Others
+19317,19563,P27,13,Nod 
+19317,19563,P27,23,Glance at Others
+19381,19472,P28,23,Glance at Others
+19381,19472,P28,25,Judgemental Eyebrow
+19924,20127,P28,26,Inquisitive Eyebrow
+19924,20127,P28,16,Imitation
+19924,20127,P28,21,Switch Eye Contact
+20283,20434,P27,23,Glance at Others
+20703,20966,P27,18,Generic Dance
+20703,20966,P27,23,Glance at Others
+20703,20966,P27,21,Switch Eye Contact
+21120,21390,P28,11,Shrug
+21120,21390,P28,24,Smile
+21120,21390,P28,23,Glance at Others
+21120,21390,P28,21,Switch Eye Contact
+21273,21393,P27,23,Glance at Others

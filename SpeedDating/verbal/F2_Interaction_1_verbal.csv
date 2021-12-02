@@ -1,0 +1,74 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+224.076,227.036,P5,9,whispering
+231.004,234.052,P5,10,laughing
+231.052,233.08,P4,10,laughing
+236.98,242.988,P4,10,laughing
+247.084,255.016,P5,10,laughing
+293.988,297.024,P4,10,laughing
+305.988,311.048,P5,9,whispering
+307.076,313.98,P5,3,repair
+314.06,322.028,P4,11,exclamation
+320.056,322.052,P5,2,acknowledgement 
+323.0,329.08,P5,22,harsh repair 
+332.988,338.08,P4,20,insult
+333.056,342.008,P5,10,laughing
+337.048,341.048,P4,9,whispering
+342.008,351.064,P5,19,judgemental 
+367.02,369.048,P4,9,whispering
+389.06,394.988,P5,21,cut off agent
+420.036,423.984,P4,9,whispering
+430.984,433.06,P4,9,whispering
+463.0,468.044,P4,19,judgemental 
+559.056,566.052,P4,9,whispering
+568.076,573.024,P4,10,laughing
+593.048,604.068,P5,22,harsh repair 
+597.064,600.02,P4,9,whispering
+609.008,614.0,P4,10,laughing
+618.044,628.052,P5,10,laughing
+619.048,626.988,P4,10,laughing
+637.052,641.048,P4,9,whispering
+648.096,653.056,P5,21,cut off agent
+666.04,668.06,P4,9,whispering
+694.096,698.028,P5,2,acknowledgement 
+700.052,704.08,P4,9,whispering
+714.02,717.076,P4,9,whispering
+731.032,732.084,P4,9,whispering
+737.004,1061.001,P5,10,laughing
+738.04,745.008,P4,10,laughing
+744.008,746.036,P5,19,judgemental 
+755.052,764.988,P4,10,laughing
+761.996,764.984,P4,13,compliment
+762.072,764.076,P5,2,acknowledgement 
+775.096,781.032,P5,10,laughing
+775.98,781.08,P4,13,compliment
+791.044,796.032,P5,11,exclamation
+813.984,820.032,P4,13,compliment
+841.044,847.072,P4,9,whispering
+866.02,874.04,P5,2,acknowledgement 
+876.012,878.092,P4,11,exclamation
+878.044,880.048,P5,19,judgemental 
+893.06,898.016,P4,9,whispering
+918.092,922.088,P4,2,acknowledgement 
+937.996,945.056,P4,19,judgemental 
+952.036,957.076,P4,10,laughing
+961.076,967.004,P4,10,laughing
+983.076,987.092,P4,9,whispering
+1002.084,1004.04,P4,9,whispering
+1008.048,1016.076,P4,9,whispering
+1018.08,1021.008,P4,9,whispering
+1029.032,1034.028,P4,23,angry tone 
+1032.012,1038.0,P5,9,whispering
+1032.044,1036.088,P4,19,judgemental 
+1042.088,1045.092,P4,19,judgemental 
+230.02,234.048,P5,30,Laugh
+230.988,234.048,P4,30,Laugh
+372.028,377.06,P5,35,Judgemental Verbal
+634.08,637.988,P4,30,Laugh
+664.992,667.068,P4,29,Whisper
+737.992,745.02,P4,30,Laugh
+738.044,745.996,P5,4,Follow-Up Question
+760.012,763.052,P4,5,Exclamation
+761.02,764.992,P5,2,Mhm
+791.032,795.048,P5,5,Exclamation
+814.088,820.0,P4,6,Relevancy
+873.088,879.036,P4,2,Mhm

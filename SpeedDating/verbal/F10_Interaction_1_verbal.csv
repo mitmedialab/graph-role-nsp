@@ -1,0 +1,74 @@
+Start_frame,End_frame,Participant,Behavior_ID,Behavior_Description
+209.0,211.16,P28,20,insult
+233.95,236.08,P27,10,laughing
+234.87,237.06,P28,10,laughing
+252.11,256.98,P27,10,laughing
+256.1,257.91,P28,10,laughing
+277.89,279.93,P28,9,whispering
+280.06,281.95,P28,10,laughing
+303.02,304.96,P27,9,whispering
+311.9,316.13,P28,10,laughing
+312.95,315.91,P27,10,laughing
+318.88,322.1,P28,10,laughing
+322.12,324.88,P28,21,cut off agent
+357.12,363.0,P28,10,laughing
+357.99,360.04,P27,10,laughing
+366.03,377.1,P28,10,laughing
+372.12,379.13,P27,10,laughing
+392.89,394.99,P27,19,judgemental 
+406.97,414.0,P27,13,compliment
+409.04,414.03,P28,10,laughing
+435.11,437.0,P27,2,acknowledgement 
+442.12,448.03,P28,10,laughing
+445.07,449.1,P27,10,laughing
+446.93,448.99,P28,13,compliment
+460.07,462.05,P27,20,insult
+488.05,490.15,P28,2,acknowledgement 
+489.06,491.91,P27,10,laughing
+492.06,495.89,P28,10,laughing
+493.03,496.04,P27,13,compliment
+522.04,523.91,P28,21,cut off agent
+548.94,550.04,P27,13,compliment
+581.08,583.98,P27,21,cut off agent
+612.12,621.15,P27,10,laughing
+618.0,624.97,P28,10,laughing
+619.11,621.07,P27,21,cut off agent
+619.93,622.04,P28,21,cut off agent
+622.92,626.02,P27,10,laughing
+632.92,635.06,P28,21,cut off agent
+669.94,675.02,P28,3,repair
+679.97,680.99,P27,11,exclamation
+698.01,701.02,P27,21,cut off agent
+708.87,713.07,P28,10,laughing
+225.13,236.9,P27,30,Laugh
+231.96,236.87,P28,30,Laugh
+255.05,258.93,P27,5,Exclamation
+256.07,257.95,P28,30,Laugh
+275.15,278.12,P27,30,Laugh
+277.99,281.96,P28,6,Relevancy
+309.0,316.87,P28,30,Laugh
+360.9,362.89,P27,30,Laugh
+361.1,362.98,P27,30,Laugh
+368.11,379.03,P27,30,Laugh
+371.93,379.03,P28,30,Laugh
+392.87,395.99,P27,30,Laugh
+393.04,394.96,P27,35,Judgemental Verbal
+402.12,414.87,P28,5,Exclamation
+402.12,414.87,P28,30,Laugh
+406.9,414.0,P27,32,Compliment
+406.9,414.0,P27,5,Exclamation
+433.01,437.08,P27,35,Judgemental Verbal
+445.06,448.94,P27,30,Laugh
+447.02,450.16,P28,5,Exclamation
+447.02,450.16,P28,30,Laugh
+491.09,496.11,P27,32,Compliment
+547.87,550.06,P27,6,Relevancy
+614.0,623.16,P28,30,Laugh
+614.0,623.16,P28,37,Interrupt 
+614.0,623.16,P28,6,Relevancy
+615.02,622.91,P27,37,Interrupt 
+615.02,622.91,P27,30,Laugh
+643.9,652.13,P27,35,Judgemental Verbal
+676.11,681.14,P27,5,Exclamation
+704.02,713.01,P28,6,Relevancy
+709.12,713.1,P27,30,Laugh
