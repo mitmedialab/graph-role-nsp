@@ -1,4 +1,4 @@
-# CC-NCE
+# Role-Aware Graph-Based Next Speaker Prediction
 
 This is the official repository for *Role-Aware Graph-Based Next Speaker Prediction in Multi-party Human-Robot Interaction* 
 
