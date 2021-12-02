@@ -18,8 +18,19 @@ import argparse
 parser = argparse.ArgumentParser(description='Process some integers.')
 
 parser.add_argument('--group_num', required=True)
+parser.add_argument('--task', default = "next_speaker")
 args = parser.parse_args()
 group_num = int(args.group_num)
+task = str(args.task)
+
+
+if task == 'next_speaker':
+    from dataset_slide import *
+elif task == 'identify_speaker':
+    from dataset_slide_identify import *
+else:
+    print("task not specified choose from [next_speaker, identify_speaker] ")
+    exit()
 
 
 
