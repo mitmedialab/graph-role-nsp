@@ -4,7 +4,7 @@ This is the official repository for *Role-Aware Graph-Based Next Speaker Predict
 
 # Overview
 
-<img src="overview.png" alt="drawing" width="800"/>
+<img src="overview_graph-role-nsp.png" alt="drawing" width="800"/>
 
 This repo has information on the training code. 
 
