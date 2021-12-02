@@ -8,7 +8,7 @@ This is the official repository for *Role-Aware Graph-Based Next Speaker Predict
 
 This repo has information on the training code. 
 
-For the purposes of this repository, we assume that the dataset is downloaded to `../data/`
+For the purposes of this repository, we assume that the dataset is downloaded to `../SpeedDating/`
 
 This repo is divided into the following sections:
 
