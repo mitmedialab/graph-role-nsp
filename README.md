@@ -33,16 +33,18 @@ pip install -r requirements.txt
 ```
 
 ## Training
-To train a model from scratch, run the following script,
+To train a model from scratch, run the following script: 
 
 ### Next Speaker Prediction
 
 ```sh
+#Ours
 python train.py --task next_speaker --model_name Graph --group_num 3 --time_step 1 --role 1 --epochs 250 --init_seed 0 --cv_seed 0 
 ```
 
 ### Next Speaker Identification
 
 ```sh
+#Ours
 python train.py --task identify_speaker --model_name Graph --group_num 3 --time_step 1 --role 1 --epochs 250 --init_seed 0 --cv_seed 0 
 ```
